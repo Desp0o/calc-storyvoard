@@ -14,5 +14,4 @@ A beautifully designed **Calculator App** built using **UIKit** and **Storyboard
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Desp0o/trs/refs/heads/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-19%20at%2011.55.24.png?token=GHSAT0AAAAAACYDYW4LA5RVK2SEU47SMINQZ3D2JBA" alt="App Screenshot" height="400" />  
-<img src="https://github.com/Desp0o/trs/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-19%20at%2011.55.29.png?raw=true" alt="App Screenshot" height="400" />
+<img src="https://github.com/Desp0o/trs/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-19%20at%2011.55.24.png?raw=true" alt="App Screenshot" height="400" /> <img src="https://github.com/Desp0o/trs/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-19%20at%2011.55.29.png?raw=true" alt="App Screenshot" height="400" />
